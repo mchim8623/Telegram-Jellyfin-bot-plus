@@ -20,7 +20,7 @@ mkdir jb && cd jb && wget https://raw.githubusercontent.com/mchim8623/Telegram-J
 ```
 开启机器人
 ```python
-pytho3 bot.py
+python3 bot.py
 ```
 开启后台服务
 ```shell
