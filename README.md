@@ -16,8 +16,10 @@ mkdir jb && cd jb && wget https://raw.githubusercontent.com/mchim8623/Telegram-J
 ```
 安装依赖(在虚拟环境）
 ```python
- pip install asyncio logging secrets string random aiosqlite requests pyth  
-```shell
+ pip install asyncio logging secrets string random aiosqlite requests python-telegram-bot
+```
+开启机器人
+```python
 pytho3 bot.py
 ```
 开启后台服务
